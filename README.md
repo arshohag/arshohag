@@ -3,7 +3,7 @@
 ## I'm a Backend Ninja 🪤🪤
 [💡 check my latest architecture here 💡][web]
 - 🔭 I’m currently working at [Onyx Island][onyx]!
-- 🥅 2021 Goals: Security (OWASP 10), Microservices
+- 🥅 2022 Goals: Security (OWASP 10), Microservices
 
 ### Connect with me 
 
