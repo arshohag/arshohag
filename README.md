@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">Writing code for backend (PHP & MySQL) and love to play with the APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshohag&label=Profile%20views&color=0e75b6&style=flat" alt="arshohag" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshohag&label=Profile%20views&color=0e75b6&style=flat" alt="arshohag" /> </p>
 
 - 🔭 I’m currently working at [Onyx Island](https://onyxisland.agency/)
 
@@ -29,8 +29,8 @@
 - [Deploy to github and gitlab from same local project](https://rdevs.xyz/arshohag/git/deploy-to-github-and-gitlab-from-same-local-project/?utm_source=rss&utm_medium=rss&utm_campaign=deploy-to-github-and-gitlab-from-same-local-project)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/arsh0hag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arsh0hag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arshohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshohag" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6416885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6416885" height="30" width="40" /></a>
