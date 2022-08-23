@@ -3,11 +3,10 @@ on:
     schedule:
         - cron: '0 * * * *'
 
-# Allows you to run this workflow manually from the Actions tab
-workflow_dispatch:        
+    workflow_dispatch:        
 
 jobs: 
-    update-readme-with-blog: 
+    build: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
