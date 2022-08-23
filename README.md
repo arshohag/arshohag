@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshohag&label=Profile%20views&color=0e75b6&style=flat" alt="arshohag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshohag" alt="arshohag" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arsh0hag" target="blank"><img src="https://img.shields.io/twitter/follow/arsh0hag?logo=twitter&style=for-the-badge" alt="arsh0hag" /></a> </p>
-
 - 🔭 I’m currently working at [Onyx Island](https://onyxisland.agency/)
 
 - 🌱 I’m currently learning **System Design**
@@ -49,7 +45,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshohag&show_icons=true&locale=en&layout=compact" alt="arshohag" /></p>
 
-<br>
+&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshohag&show_icons=true&locale=en" alt="arshohag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshohag&" alt="arshohag" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshohag" alt="arshohag" /></a> </p>
+
+<!-- <p align="left"> <a href="https://twitter.com/arsh0hag" target="blank"><img src="https://img.shields.io/twitter/follow/arsh0hag?logo=twitter&style=for-the-badge" alt="arsh0hag" /></a> </p> -->
