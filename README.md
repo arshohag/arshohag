@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with [Be Muslim](https://bemuslim.xyz/)
 
-- 👨‍💻 All of my projects are available at [rdevs.xyz/arshohag](rdevs.xyz/arshohag)
+- 👨‍💻 All of my projects are available at [https://rdevs.xyz/arshohag](https://rdevs.xyz/arshohag)
 
-- 📝 I regularly write articles on [rdevs.xyz](rdevs.xyz)
+- 📝 I regularly write articles on [https://rdevs.xyz](https://rdevs.xyz)
 
 - 💬 Ask me about **PHP, MySQL, AWS & API**
 
 - 📫 How to reach me **arshohag8@gmail.com**
 
-- 📄 Know about my experiences [rdevs.xyz](rdevs.xyz)
+- 📄 Know about my experiences [https://rdevs.xyz](https://rdevs.xyz)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,7 +37,7 @@
 <a href="https://fb.com/arsh0hag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsh0hag" height="30" width="40" /></a>
 <a href="https://instagram.com/arsh0hag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsh0hag" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/redcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="redcam" height="30" width="40" /></a>
-<a href="/rdevs.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rdevs.xyz" height="30" width="40" /></a>
+<a href="/https://rdevs.xyz/arshohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rdevs.xyz/arshohag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,3 +49,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshohag&" alt="arshohag" /></p>
 
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
