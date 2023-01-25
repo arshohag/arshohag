@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://rdevs.xyz/arshohag](https://rdevs.xyz/arshohag) -->
 
-- 📝 I regularly write articles on [https://rdevs.xyz](https://rdevs.xyz)
+- 📝 I regularly write articles on [rdevs.xyz](https://rdevs.xyz)
 
 - 💬 Ask me about **PHP, MySQL, AWS & API**
 
