@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Queues on cPanel Shared Hosting with Laravel￼￼](https://rdevs.xyz/arshohag/framework/laravel/using-queues-on-cpanel-shared-hosting-with-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=using-queues-on-cpanel-shared-hosting-with-laravel)
 - [Wix Hacks](https://rdevs.xyz/arshohag/uncategorized/wix-hacks/?utm_source=rss&utm_medium=rss&utm_campaign=wix-hacks)
 - [DALL·E: Creating Images from Text](https://rdevs.xyz/arshohag/ai/dall%c2%b7e-creating-images-from-text/?utm_source=rss&utm_medium=rss&utm_campaign=dall%25c2%25b7e-creating-images-from-text)
 - [Config RDS connection for Laravel the right way | Best practices](https://rdevs.xyz/arshohag/best-practices/config-rds-connection-for-laravel-the-right-way-best-practices/?utm_source=rss&utm_medium=rss&utm_campaign=config-rds-connection-for-laravel-the-right-way-best-practices)
-- [Deploy to github and gitlab from same local project](https://rdevs.xyz/arshohag/git/deploy-to-github-and-gitlab-from-same-local-project/?utm_source=rss&utm_medium=rss&utm_campaign=deploy-to-github-and-gitlab-from-same-local-project)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
