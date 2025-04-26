@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arshohag&label=Profile%20views&color=0e75b6&style=flat" alt="arshohag" /> </p>
 
-- 🔭 I’m currently working at [Onyx Island](https://onyxisland.agency/)
+- 🔭 I’m currently working at [Woven](https://www.woven.sg/)
 
 - 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on [URL Shortener](https://github.com/arshohag/url-shortener)
 
-- 🤝 I’m looking for help with [Be Muslim](https://bemuslim.xyz/)
+- 🤝 I’m looking for help with [Be Muslim](https://bemuslim.rdevs.xyz/)
 
 <!-- - 👨‍💻 All of my projects are available at [https://rdevs.xyz/arshohag](https://rdevs.xyz/arshohag) -->
 
